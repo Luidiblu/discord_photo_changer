@@ -6,8 +6,8 @@
 
 First, you need to fill the `.env` file with:
 
-|  Field   |   Example Value   | Meaning
------------------------------------------------------
+|  Field   |   Example Value   |       Meaning
+|----------|-------------------|-----------------------
 | username | AgostinhoCarrara  | Your Discord username 
 |  email   | carrara@gmail.com | Your Discord email    
 | password | ################# | Your Discord password    
