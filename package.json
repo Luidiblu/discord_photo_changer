@@ -1,0 +1,13 @@
+{
+  "name": "discord_photo_changer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Luidiblu/discord_photo_changer",
+  "author": "Diego Pisani",
+  "license": "MIT",
+  "dependencies": {
+    "datauri": "^4.1.0",
+    "dotenv": "^10.0.0",
+    "request": "^2.88.2"
+  }
+}
